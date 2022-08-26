@@ -1,4 +1,4 @@
-# PrudentailAssignment
+
 ##Ⅰ Prepare Enviroment
 1. code Editor : Visual Studio Code (or other you like)
 2. Install Python 3.10+
